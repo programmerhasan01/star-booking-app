@@ -100,6 +100,7 @@ function Hotel() {
                   src={photo.src}
                   alt="hotel"
                   className="hotelImg"
+                  title="click"
                 />
               </div>
             ))}
